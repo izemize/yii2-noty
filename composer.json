@@ -1,5 +1,5 @@
 {
-    "name": "shifrin/yii2-noty",
+    "name": "izemize/yii2-noty",
     "description": "Yii widget for Noty jQuery notification plugin",
     "keywords": ["yii2", "noty", "alert", "flash", "message", "notification"],
     "type": "yii2-extension",
